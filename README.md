@@ -5,7 +5,7 @@ Intended to mimic node's streams but without complexity.
 There are no more event emitters and fewer states to handle.
 Designed to be used with [co](https://github.com/visionmedia/co).
 
-You might be interested in [archan](https://github.com/cojs/archan).
+Note: this is pretty much deprecated in favor of [parchan](https://github.com/cojs/parchan). This is more of an educational exercise.
 
 ## Example
 
